@@ -4,6 +4,9 @@ Bu proje, modern JavaScript (ES6+) ve Nesne Yönelimli Programlama (OOP) prensip
 
 Uygulama; kullanıcı etkileşimi, DOM manipülasyonu ve zaman yönetimi gibi temel frontend konseptlerini pratik etmek amacıyla tasarlanmıştır.
 
+##  Canlı Demo
+Uygulamayı denemek için tıklayın: [Quiz App Live](https://cerenncetinn.github.io/quiz-app/)
+
 ## Ekran Görüntüleri
 
 ### 1. Başlangıç Ekranı
