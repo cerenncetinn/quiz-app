@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-
-# quiz-app
-
-=======
-
 ## JavaScript Quiz Application (OOP & Dynamic UI)
 
 Bu proje, modern JavaScript (ES6+) ve Nesne Yönelimli Programlama (OOP) prensipleri kullanılarak geliştirilmiş, zaman kontrollü ve dinamik olarak render edilen interaktif bir quiz uygulamasıdır.
